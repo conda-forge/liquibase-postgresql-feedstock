@@ -201,6 +201,3 @@ Feedstock Maintainers
 
 * [@pb01ka](https://github.com/pb01ka/)
 
-
-<!-- dummy commit to enable rerendering -->
-
